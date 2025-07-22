@@ -1,0 +1,9 @@
+baseURL = 'https://jkermes.github.io/'
+languageCode = 'en-us'
+title = 'jkermes.github.io'
+theme = 'PaperMod'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
